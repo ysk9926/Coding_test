@@ -1,6 +1,4 @@
-package Day_3;
-
-import java.util.Scanner;
+package Day3;
 
 public class pr_4 {
     public int solution(int a, int b) {

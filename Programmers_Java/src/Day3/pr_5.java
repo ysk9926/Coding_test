@@ -1,4 +1,4 @@
-package Day_3;
+package Day3;
 
 public class pr_5 {
     public int solution(int a, int b) {

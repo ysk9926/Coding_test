@@ -1,6 +1,4 @@
-package Day_3;
-
-import java.util.Scanner;
+package Day3;
 
 public class pr_3 {
     public String solution(String my_string, int k) {

@@ -1,4 +1,4 @@
-package Day_2;
+package Day2;
 
 public class pr_5 {
     public String solution(String my_string, String overwrite_string, int s) {
